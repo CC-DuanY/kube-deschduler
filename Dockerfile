@@ -1,0 +1,1 @@
+FROM k8s.grc.io/descheduler/descheduler:v0.20.0
